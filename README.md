@@ -26,4 +26,4 @@ mysql -u root -p < database/schema.sql
 | `reserva_servicios` | Servicios incluidos en cada reserva |
 | `reserva_historial` | Historial de cambios de estado |
 
-Incluye la vista `v_agenda` y datos de prueba.
+Incluye la vista `v_agenda`.
